@@ -1,9 +1,9 @@
 # config
-Linux configuration files
+configuration files
 
 
 ## Windows Terminal
 ```settings.js``` goes in
 ```
-C:\Users\Administrator\AppData\Local\Packages\Microsoft.WindowsTerminal\LocalState
+C:\Users\%USERNAME%\AppData\Local\Packages\Microsoft.WindowsTerminal\LocalState
 ```
