@@ -119,3 +119,6 @@ fi
 # python
 alias python=python3
 alias pip=pip3
+
+# texlive
+export PATH=$PATH:~/bin/texlive/2020/bin/x86_64-linux
