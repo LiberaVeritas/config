@@ -4,6 +4,7 @@
     "workbench.colorTheme": "Solarized Dark+",
     "editor.occurrencesHighlight": false,
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "editor.acceptSuggestionOnEnter": "off",
 
     "[html]": {
 
